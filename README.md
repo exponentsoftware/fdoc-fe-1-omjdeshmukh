@@ -10,4 +10,4 @@
 5. Inside `Albums` component map over the album props and for each album in the array create a new `Album` component to be displayed inside `Albums`. Be sure to pass the id of each album as a key to each `Album` component. For each album object, pass it as props to the `Album` component.  
 
 ![albums](./images/albums.png)
-   
+   Hello
