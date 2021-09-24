@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import Album from "./components/Album";
+import Albums from "./components/Albums/Albums";
 
 function App() {
   return <div className="App">
-    <Album/>
+    <Albums/>
   </div>;
 }
 
