@@ -1,0 +1,44 @@
+.album {
+  width: 15rem;
+  background-color: rgb(206, 217, 218);
+  flex-direction: column;
+  margin: 1rem;
+  border-radius: 1rem;
+  padding: 2rem 2rem;
+}
+
+.album img {
+  width: 15rem;
+  border-radius: 1rem;
+}
+
+.album h1 {
+  font-size: 2rem;
+  color: rgb(211, 0, 0);
+  background: transparent;
+}
+
+.album a {
+  text-decoration: none;
+  background: transparent;
+  color: rgb(120, 78, 158);
+  font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
